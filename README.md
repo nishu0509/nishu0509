@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Nishu Yadav!
 
-<!--
-**nishu0509/nishu0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing *BCA* from *ITS Mohan Nagar, Ghaziabad*  
+💻 I’m a *Frontend Developer, learning **Full Stack Development*  
+🌐 Currently working on: HTML, CSS, JavaScript, React.js  
+📍 From: Delhi, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- HTML / CSS / JavaScript
+- Tailwind CSS
+- React.js
+- Git & GitHub
+
+---
+
+### 📫 Contact Me
+- 📧 Email: nishuyadav18092005@gmail.com
